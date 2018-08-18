@@ -1,0 +1,27 @@
+/* Admin CP Styling */
+
+body {
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+body a {
+	text-decoration:none;
+	color:#417394;
+}
+
+body a:hover {
+	text-decoration: underline;
+}
+
+#list {
+	font-family: Courier;
+}
+
+#list a {
+	text-decoration:underline;
+	color:#000000;
+}
+
+#normal {
+	font-family: Tahoma, Verdana, sans-serif;
+}

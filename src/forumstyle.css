@@ -1,0 +1,33 @@
+#forum_category a {
+	color: #19496E;
+}
+
+#alt {
+	background-color: #E1E4F2;
+}
+
+#alt1 {
+	
+}
+
+#forum_category div {
+	margin:10px;
+}
+
+#forum_container {
+	margin-left:auto;
+	margin-right:auto;
+	width:1128px;
+	/*height:318px;*/
+	border: 1px solid #024e82;
+}
+
+#forum_category table {
+	/* border: 1px solid #024E82 */
+}
+
+#forum_category td {
+	width:100%;
+	border: 1px solid #024E82;
+	padding:5px;
+}

@@ -1,0 +1,56 @@
+/*
+ * 	Mattbox Login Styles
+ * 	Finally Updated: 1/13/2012
+ */
+
+body {
+	text-align: center;
+	font-family: Tahoma,Calibri,Verdana,Geneva,sans-serif;
+	font-size:15px;
+	color: #3E3E3E;
+    line-height: 1.23;
+}
+
+a {
+	text-decoration:none;
+}
+
+#header {
+	color:#FFFFFF;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border: 1px solid #024e82;
+	background: url('images/sidebar.png');
+	margin-left:auto;
+	margin-right:auto;
+	width:300px;
+	height: 24px;
+	text-align:center;
+	text-shadow: #FFFFFF 0 0 15px;
+}
+
+#button {
+	background: url('images/button.jpg'); 
+    border: 1px solid #A8A8A8;
+    border-radius: 0 0 0 0;
+    color: #424242;
+    font: bold 11px Tahoma,Calibri,Verdana,Geneva,sans-serif;
+    padding: 2.5px 2px;
+}
+
+#button:hover {
+	border-style:solid;
+	border-width:1px;
+	border-color: #a8a8a8;
+	background: url('images/buttonhover.jpg'); 
+	color: #024e82;
+	cursor:pointer;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	width:300px;
+	border: 1px solid #024e82;
+	border-top: 0px;
+}
